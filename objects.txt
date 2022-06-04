@@ -1,0 +1,6 @@
+blockB 0.15 1.05
+blockA 0.15 1.15
+blockC 0.15 0.95
+blockF 0.35 0.95
+blockE 0.35 1.05
+blockD 0.35 1.15
