@@ -1,16 +1,16 @@
 room freespace 0.0 0.0 0.0
 room livingroom 0.80 1.53
-room kitchen 1.5 1.4
+room kitchen 1.5 1.45
 room bedroom 1.0 0.6
-room corridor 0.5 1.0
-room service 1.65 0.4
+room corridor 0.33 1.05
+room service 1.70 0.35
 room studio 0.5 0.65 
 furniture table bedroom 0.183334 0.700000 0.0
 furniture table livingroom 3.183334 2.000000 0.0
 furniture cubestable bedroom 6.183334 7.000000 0.0
-object blockA corridor 0.15 1.15 0.0
-object blockB corridor 0.15 1.05 0.0
-object blockC corridor 0.15 0.95 0.0
-object blockD corridor 0.35 1.15 0.0
-object blockE corridor 0.35 1.05 0.0
-object blockF corridor 0.35 0.95 0.0
+object Apple corridor 0.25 1.10 0.0
+object Sushi corridor 0.25 1.05 0.0
+object Milk corridor 0.25 1.0 0.0
+object Soap corridor 0.4 1.10 0.0
+object Perfume corridor 0.4 1.05 0.0
+object Shampoo corridor 0.4 1.0 0.0

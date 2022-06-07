@@ -1,0 +1,8 @@
+Sushi 0.25 1.05
+Apple 0.25 1.10
+Milk 0.25 1.0
+Shampoo 0.40 1.0
+Perfume 0.40 1.05
+Soap 0.40 1.10
+fridge 1.5 1.55
+table 1.65 0.25
